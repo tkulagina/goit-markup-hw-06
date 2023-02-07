@@ -987,6 +987,7 @@ address {
 
 .submit-button {
     display: block;
+    padding: 0;
     margin: 0 auto;
     min-width: 200px;
     height: 50px;
