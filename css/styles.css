@@ -942,10 +942,16 @@ address {
     margin-bottom: 30px; 
 }
 
+.contact-form-checkbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+
 .checkbox-description {
     display: flex;
     align-items: center;
-       
+    justify-content: center;   
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
