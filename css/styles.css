@@ -938,8 +938,9 @@ address {
 .contact-form-checkbox-wrapper {
     display: flex;
     align-items: center;
-
+   
     margin-bottom: 30px; 
+    padding-left: 14px;
 }
 
 .contact-form-checkbox {
